@@ -211,6 +211,7 @@ Prompt Master includes specific profiles for 20+ tools. For anything not on the 
 | **MiniMax (M2.7 / M2.5)** | Reasoning LLM | Temperature clamping, thinking tag control, structured output optimization |
 | **Claude Code** | Agentic AI | Stop conditions, file scope, checkpoint output |
 | **Cursor / Windsurf** | IDE AI | File path, function name, do-not-touch list, sequential prompt guidance |
+| **Cline (formerly Claude Dev)** | Agentic IDE | File scope, approval gates, stop conditions, task breakdown |
 | **GitHub Copilot** | Autocomplete AI | Exact function contract as docstring |
 | **Antigravity** | Agentic IDE | Task-based prompting, Artifact verification, autonomy level |
 | **Bolt / v0 / Lovable** | Full-stack generator | Stack spec, version, what NOT to scaffold |
